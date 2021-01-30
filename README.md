@@ -14,6 +14,7 @@
 - 💥 **About me:** learning and improving my skills every day and night. What I feel special about me is, I can learn anything, and anything mean anything, No matter it is phd maths or Google's map algorithm.
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://github.com/rakesh4104">
   <img align="left" alt="Rakesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -35,21 +36,24 @@
 <a href="https://github.com/rakesh4104/">
   <img align="left" alt="Rakesh's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+</p>
 
-**Languages and Tools:**  
-
+<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
+</p>
 
 <a href="https://github.com/RakeshDas0804">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshDas0804&theme=light&hide_langs_below=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh4104&theme=light&hide_langs_below=5" />
 </a>
 <a href="https://github.com/RakeshDas0804">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RakeshDas0804&show_icons=true&locale=en&count_private=true" alt="Rakesh's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rakesh4104&show_icons=true&locale=en&count_private=true" alt="Rakesh's github stats" />
 </a>
 
 <br/>
