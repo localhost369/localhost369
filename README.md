@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh4104&label=Profile%20views&color=0e75b6&style=flat" alt="Rakesh Das" /> </p>
 
-<br/>
-<br/>
 
 - 💥 Future AI Engineer 🎓
 - 💥 ML/DL, Cloud and Computer Vision enthusiast 🧠
