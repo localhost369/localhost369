@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning more about Facial Recognition.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 💥 I'm currently working on **Flutter App Development** ⌛
-- 💥 Created **[TalaashUnlock](https://www.github.com/talaashunlock)** ✨ Software for finding Missing Person with Facial Recognition & AI.
+- 💥 Developing **[TalaashUnlock](https://www.github.com/talaashunlock)** ✨ Software for finding Missing Person with Facial Recognition & AI.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: If you ask me a simple question, it is more likely that I will make it more complicated or vice versa.😇😂😇.
 - 💥 **About me:** learning and improving my skills every day and night. What I feel special about me is, I can learn anything, and anything mean anything, No matter it is phd maths or Google's map algorithm.
