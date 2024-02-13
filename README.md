@@ -33,9 +33,6 @@
 <a href="https://www.facebook.com/rakesh.das0804/">
   <img align="left" alt="Rakesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://github.com/rakesh4104/">
-  <img align="left" alt="Rakesh's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 </p>
 
 <br>
@@ -49,10 +46,10 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 </p>
 
-<a href="https://github.com/RakeshDas0804">
+<a href="https://github.com/localhost369">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh4104&theme=light&hide_langs_below=5" />
 </a>
-<a href="https://github.com/RakeshDas0804">
+<a href="https://github.com/localhost369">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rakesh4104&show_icons=true&locale=en&count_private=true" alt="Rakesh's github stats" />
 </a>
 
