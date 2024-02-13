@@ -1,6 +1,6 @@
 <h2 >नमस्कारः 👋, I'm Rakesh Das</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh4104&label=Profile%20views&color=0e75b6&style=flat" alt="Rakesh Das" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=localhost369&label=Profile%20views&color=0e75b6&style=flat" alt="Rakesh Das" /> </p>
 
 
 - 💥 Future AI Engineer 🎓
@@ -47,10 +47,10 @@
 </p>
 
 <a href="https://github.com/localhost369">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh4104&theme=light&hide_langs_below=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=localhost369&theme=light&hide_langs_below=5" />
 </a>
 <a href="https://github.com/localhost369">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rakesh4104&show_icons=true&locale=en&count_private=true" alt="Rakesh's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=localhost369&show_icons=true&locale=en&count_private=true" alt="Rakesh's github stats" />
 </a>
 
 <br/>
