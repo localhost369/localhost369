@@ -11,7 +11,7 @@
 - 💥 Developing **[TalaashUnlock](https://www.github.com/talaashunlock)** ✨ Software for finding Missing Person with Facial Recognition & AI.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: If you ask me a simple question, it is more likely that I will make it more complicated or vice versa.😇😂😇.
-- 💥 **About me:** learning and improving my skills every day and night. What I feel special about me is, I can learn anything, and anything mean anything, No matter it is phd maths or Google's map algorithm.
+- 💥 **About me:** learning and improving my skills every day and night. What I feel special about me is, I can learn anything, No matter it is phd maths or Google's map algorithm.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
